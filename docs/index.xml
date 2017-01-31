@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lithium Theme</title>
+    <title>Chaochen Wang|王超辰</title>
     <link>/index.xml</link>
-    <description>Recent content on Lithium Theme</description>
+    <description>Recent content on Chaochen Wang|王超辰</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>cn-TW</language>
     <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,16 +37,6 @@
 
 &lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;blogdown::new_post(&amp;quot;Post Title&amp;quot;, rmd = FALSE)
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;p&gt;This is a &amp;ldquo;hello world&amp;rdquo; example website for the &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; package. The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-lithium-theme&#34;&gt;@jrutheiser/hugo-lithium-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/yihui/hugo-lithium-theme&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -117,6 +107,33 @@ Figure 1: A fancy pie chart.
       
       <guid>/2015/01/01/lorem-ipsum/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About/關於</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./image/bg.jpg&#34; alt=&#34;me&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am now working as an assitant professor at &lt;a href=&#34;http://www.aichi-med-u.ac.jp/&#34;&gt;Aichi Medical University&lt;/a&gt;. You can find the &lt;a href=&#34;https://sites.google.com/site/aichimeduniv/home&#34;&gt;home page&lt;/a&gt; of the department I belong to. I got my PhD from the Department of Public Health, Graduate School of Medicine, Nagoya University at 2016. So currently I live in central Japan. I am a big fan of &lt;a href=&#34;https://www.r-project.org/&#34;&gt;R&lt;/a&gt; and the open-source integrated development environment (IDE) &lt;a href=&#34;https://www.rstudio.com/&#34;&gt;R studio&lt;/a&gt; as well as many other open-source softwares. But I am only a fan, not an expert. Our lab is now mainly working on Epidemiology of Gastroenterological Cancer, as well as psycological genetic epidemiology especially about sleep duration, autism, and attention deficit hyperactivity disorder (ADHD). This site will be the place to hold the materials I personally have used during the lectures, or any other thoughts that come across my mind. You can find my cv &lt;a href=&#34;http://winterwang.github.io/files/cv.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;這裏是王超辰的個人網站。2016年3月底我終於取得日本&lt;a href=&#34;http://www.med.nagoya-u.ac.jp/medical/&#34;&gt;名古屋大学&lt;/a&gt;的醫學博士學位，我的研究方向是慢性疾病的流行病學研究, &lt;a href=&#34;http://winterwang.github.io/files/cv.pdf&#34;&gt;這&lt;/a&gt;是我的個人簡歷。我目前在&lt;a href=&#34;https://sites.google.com/site/aichimeduniv/home&#34;&gt;日本愛知医科大学医学部公衆衛生学教室&lt;/a&gt;做助教。如果你不能打開左邊的鏈接，說明你生活在東土大唐GFW淪陷區內，請學會(肉身)翻牆訪問我們研究室的主頁。2010年至2015年期間在名古屋大學，我的研究內容是肥胖和糖尿病等生活習慣病相關的流行病學研究，當年參加的&lt;a href=&#34;http://koei-nagoya.blogspot.jp/&#34;&gt;隊列研究&lt;/a&gt;至今仍然在追蹤之中。我的&lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0091743515002376&#34;&gt;博士畢業論文&lt;/a&gt;探討的是该隊列中追蹤對象2型糖尿病的發病，與研究對象的父母親糖尿病史，以及本人的體重變化的关系。我的&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/dmrr.2406/abstract;jsessionid=DB436E7BB3CAA80200D760D7C72095D8.f04t02&#34;&gt;碩士論文&lt;/a&gt;討論的是血清C-反應蛋白濃度和追蹤中2型糖尿病發病的關系。在愛知医科大学我们研究室的研究主題包括消化道癌症（特别是胃癌，食管癌，膽囊癌）的流行病學研究（醫院內病例對照研究）。這一類消化道癌症據說與 &lt;em&gt;H.Pylori&lt;/em&gt;，也就是幽門螺旋杆菌的感染高度相關。我們還有另外一個剛起步的研究精神醫學表觀症狀的基因隊列研究GCOP Study (Genome Cohort on Psychosocial traits Study)，此研究主要由副教授&lt;a href=&#34;https://sites.google.com/site/myintroducing/home&#34;&gt;西山毅(Takeshi Nishiyama)&lt;/a&gt;負責，我也輔助進行一些數據分析和論文的寫作。
+我支持開源軟件，工作，生活和學習中主要在&lt;a href=&#34;https://www.ubuntu.com/&#34;&gt;Ubuntu&lt;/a&gt;，及&lt;a href=&#34;https://www.rstudio.com/&#34;&gt;Rstudio&lt;/a&gt;環境下進行，堅持一邊學習，一邊使用&lt;a href=&#34;https://www.r-project.org/&#34;&gt;R&lt;/a&gt;分析數據。平时業餘愛好是折騰折騰电脑，讀讀&lt;a href=&#34;http://www.economist.com/&#34;&gt;經濟學人/the Economist&lt;/a&gt;,智商平庸，痛恨GFW，每次回中國大陸超过一周時間就會渾身不適，惡心嘔吐等被牆症狀，每日19点症狀最爲嚴重。這是我第二次嘗試利用github+hugo託管個人網站，感謝開源社區的人們，你們才是人類進步的階梯。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Address/聯絡方式:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1-1 Yazakokarimata, Nagakute, Aichi, 480-1195, JAPAN&lt;/p&gt;
+
+&lt;p&gt;〒480-1195 愛知県長久手市岩作雁又1-1&lt;/p&gt;
+
+&lt;p&gt;Phone:  0561-62-3311（内線/ext.：12389）&lt;/p&gt;
+
+&lt;p&gt;Fax:      0561-62-5270&lt;/p&gt;
+
+&lt;p&gt;E-mail: abelardccwang&amp;lt;at&amp;gt;gmail.com&lt;/p&gt;
 </description>
     </item>
     
