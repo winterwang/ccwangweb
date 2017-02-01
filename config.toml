@@ -158,32 +158,32 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "https://winterwang.github.io/ccwangweb/home"
   weight = 1
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "https://winterwang.github.io/ccwangweb/publications_selected"
   weight = 2
 
 [[menu.main]]
   name = "Posts"
-  url = "#posts"
+  url = "https://winterwang.github.io/ccwangweb/posts"
   weight = 3
 
 #[[menu.main]]
 #  name = "Projects"
-#  url = "#projects"
+#  url = "https://winterwang.github.io/ccwangweb/projects"
 #  weight = 4
 
 [[menu.main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "https://winterwang.github.io/ccwangweb/teaching"
   weight = 4
 
 [[menu.main]]
   name = "Contact"
-  url = "#contact"
+  url = "https://winterwang.github.io/ccwangweb/contact"
   weight = 5
 
 # Taxonomies.
