@@ -1,4 +1,4 @@
-baseurl = "https://winterwang.github.io/ccwangweb"
+baseurl = "https://winterwang.github.io/"
 title = "Be ambitious"
 copyright = "&copy; 2017 Chaochen Wang | 王超辰"
 theme = "academic"
@@ -158,17 +158,17 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Home"
-  url = "https://winterwang.github.io/ccwangweb/home"
+  url = "#about"
   weight = 1
 
 [[menu.main]]
   name = "Publications"
-  url = "https://winterwang.github.io/ccwangweb/publications_selected"
+  url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
   name = "Posts"
-  url = "https://winterwang.github.io/ccwangweb/posts"
+  url = "#posts"
   weight = 3
 
 #[[menu.main]]
@@ -178,12 +178,12 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Teaching"
-  url = "https://winterwang.github.io/ccwangweb/teaching"
+  url = "#teaching"
   weight = 4
 
 [[menu.main]]
   name = "Contact"
-  url = "https://winterwang.github.io/ccwangweb/contact"
+  url = "#contact"
   weight = 5
 
 # Taxonomies.
